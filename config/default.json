@@ -1,0 +1,11 @@
+{
+  "appSecret": "4d38acb9e38e8430d6ad060dd77cb40a",
+  "pageAccessToken": "EAAWpGvjwftABABPtd6J9ZAbCuI0y4Wpu54D1NqBa8Gw5ihaoTQIYQ0wnGov5tYcNmXRZCyLFMtw0R2sVt0fIP3DB7OmbREc0ZAuA2SjdddoJ5WAWB2S4jIGldwzGauGwLYRh1CPPZAjZAOabRMWcNsJXoHZAvIYUUVZCp0DpXZBJ9gZDZD",
+  "validationToken": "verify_token",
+	"serverURL": "https://gesys-fbbot.e-contact.cl/",
+	"serverAPIGraphURL": "https://graph.facebook.com/v2.6/",
+	//"watsonURL": "http://10.36.29.94:3000/api/message",
+	"backendURL": "http://bot.contactbot.org/",
+	"authenticationBackend": "andre:Aa123456",
+	"MESSENGER_PORT": 5000
+}
